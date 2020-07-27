@@ -6,5 +6,5 @@
 
 ## Thread
 
-[1114. Print in Order.Easy](./thread/1114. Print in Order.Easy.md)
+[1114.Print in Order.Easy](./thread/1114.Print in Order.Easy.md)
 
