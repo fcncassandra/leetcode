@@ -2,9 +2,17 @@
 
 ## Algorithm
 
-[15 3Sum Middle](./algorithm/3Sum.md)
+| 题号 | 难度   | 题名                        |
+| ---- | ------ | --------------------------- |
+| 15   | Middle | [3Sum](./Algorithm/3Sum.md) |
+|      |        |                             |
+|      |        |                             |
 
 ## Thread
 
-[1114 Print in Order Easy](./thread/Print-in-Order.md)
+| 题号 | 难度 | 题名                                          |
+| ---- | ---- | --------------------------------------------- |
+| 1114 | Easy | [Print in Order ](./Thread/Print-in-Order.md) |
+|      |      |                                               |
+|      |      |                                               |
 
